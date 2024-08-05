@@ -1,17 +1,19 @@
 # DRF Starter Kit
 
-Welcome to the DRF Starter Kit! This repository provides a boilerplate for quickly starting a Django project with Django REST Framework (DRF). It includes essential features such as authentication, role-based access control (RBAC), Swagger documentation, API versioning, pagination, custom response formats, and a custom exception handler.
+Welcome to the DRF Starter Kit! This repository provides a boilerplate for quickly starting a Django project with Django REST Framework (DRF). It includes essential features such as API authentication with access and refresh tokens, role-based access control (RBAC), Swagger documentation, API versioning, pagination, custom response formats, and a custom exception handler. Additionally, it includes the Django built-in admin panel for managing your application.
 
 ## Features
 
 - **Django REST Framework (DRF)**: A powerful and flexible toolkit for building Web APIs.
-- **Authentication**: Built-in authentication system.
+- **API Authentication**: Access and refresh tokens for secure authentication.
 - **RBAC (Role-Based Access Control)**: Fine-grained control over user permissions.
 - **Swagger**: Interactive API documentation.
 - **API Versioning**: Support for versioned APIs.
 - **Pagination**: Efficient handling of large datasets.
 - **Custom Response**: Standardized response format.
 - **Custom Exception Handler**: Centralized error handling.
+- **Django Admin Panel**: Built-in admin interface for managing the application.
+
 
 ## Installation
 
