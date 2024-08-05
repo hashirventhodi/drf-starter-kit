@@ -1,0 +1,29 @@
+# Ignore Django-related files
+*.pyc
+*.pyo
+__pycache__/
+*.sqlite3
+db.sqlite3
+/media/
+/static/
+
+# Ignore local settings
+local_settings.py
+
+# Ignore development files
+*.log
+*.pot
+*.pyc
+*.swp
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore IDE settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore virtual environment
+.venv/
