@@ -1,4 +1,4 @@
-# Clinic Management System
+# DRF Starter Kit
 
 ## Overview
 This project is a clinic management system built using Django. It provides functionalities for managing patients, appointments, doctors, and more.
